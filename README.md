@@ -87,7 +87,7 @@ Overall, the project combines the functionality of shortening long URLs and sear
 
   Also deployed the project on render.com, here is the link:
 
-  https://url-shortener-acm-project-gaurav0github.onrender.com/
+  [https://url-shortener-acm-project-gaurav0github.onrender.com/](https://url-shortener-gaurav0github.onrender.com)
 
 ## Key Learning Takeaways:
 
